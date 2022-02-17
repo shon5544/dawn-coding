@@ -12,7 +12,10 @@ h3,
 h4,
 span,
 p,
-a {
+a,
+select,
+button,
+input {
   font-family: "GowunDodum-Regular";
 }
 

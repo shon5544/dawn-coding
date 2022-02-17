@@ -32,3 +32,9 @@
 .body-content-circle-num {
   margin-top: 30px;
 }
+
+.body-content-inner-circle {
+  border: 8px solid #cccccc;
+  padding: 50px 70px 50px 70px;
+  border-radius: 100000px;
+}

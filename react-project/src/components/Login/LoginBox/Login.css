@@ -1,0 +1,13 @@
+.loginBox-title {
+  display: flex;
+  justify-content: center;
+}
+
+.loginBox-input {
+  display: flex;
+  justify-content: center;
+}
+
+.input-element {
+  display: block;
+}

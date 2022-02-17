@@ -1,0 +1,21 @@
+.box-container {
+  margin-left: 30px;
+  border: 1px solid rgb(193, 203, 230);
+  width: 25%;
+  border-radius: 6px;
+  padding-left: 20px;
+}
+
+.user-name {
+  /* padding: 0px; */
+  margin: 15px 0px 6px 0px;
+}
+
+.summary-box {
+  display: flex;
+}
+
+.pos-title {
+  font-weight: bold;
+  margin-right: 10px;
+}
